@@ -1,25 +1,6 @@
 
   
-  
-  h1,
-  h2 {
-    font-size: 3rem;
-    color: #fff;
-    margin-bottom: 2rem;
-    text-align: center;
-    line-height: 1.2;
-  }
-  
-  h1::before {
-    content: "📧";
-    display: block;
-  }
-  
-  h2::before {
-    content: "";
-    display: block;
-  }
-  
+ 
   .form-group {
       display: block;
   }
